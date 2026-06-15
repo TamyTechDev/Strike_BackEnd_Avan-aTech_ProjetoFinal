@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Strike_BackEnd_Avan-aTech_ProjetoFinal/1.0.0": {
+        "runtime": {
+          "Strike_BackEnd_Avan-aTech_ProjetoFinal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Strike_BackEnd_Avan-aTech_ProjetoFinal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

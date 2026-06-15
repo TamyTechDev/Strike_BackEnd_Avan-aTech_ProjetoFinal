@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Strike_BackEnd_Avan_aTech_ProjetoFinal</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Strike_BackEnd_Avan_aTech_ProjetoFinal.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+    <header>
+        @* INICIO DO SITE TOPO *@
+        @* BARRA DO TOPO *@
+  <nav class="navbar navbar-expand-lg bg-body-tertiary py-3">
+        <div class="container-fluid d-flex align-items-center justify-content-between">
+            
+            <a class="navbar-brand me-3" href="/">
+             <img src="~/img/StrikeLogo.png" alt="Logo Monograma Strike" style="height: 75px; width: auto; object-fit: contain;">
+            </a>
+
+            <div class="d-flex align-items-center flex-grow-1 justify-content-between">
+                
+                <form class="d-flex me-4 flex-grow-1" style="max-width: 500px;" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
+
+                <div class="d-flex gap-3 me-auto">
+                 <a href="#" class="botao">Newsletter</a>
+                <a href="#" class="botao">Privacy</a>
+                <a href="#" class="botao">Cadastro</a>
+                </div>
+
+<div class="ms-3">
+    <a href="#" class="botaoDestaque">Apostas</a>
+</div>
+            </div>
+
+        </div>
+    </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2026 - Strike_BackEnd_Avan_aTech_ProjetoFinal - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

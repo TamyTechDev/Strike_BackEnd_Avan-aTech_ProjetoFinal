@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Strike_BackEnd_Avan-aTech_ProjetoFinal.props" />
+</Project>
