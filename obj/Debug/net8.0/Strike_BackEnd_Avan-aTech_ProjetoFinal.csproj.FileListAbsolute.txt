@@ -29,3 +29,38 @@ C:\Users\x3202\Documents\GitHub\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug
 C:\Users\x3202\Documents\GitHub\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.genruntimeconfig.cache
 C:\Users\x3202\Documents\GitHub\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\ref\Strike_BackEnd_Avan-aTech_ProjetoFinal.dll
 C:\Users\x3202\Documents\GitHub\Strike_BackEnd_Avan-aTech_ProjetoFinal\bin\Debug\net8.0\libman.json
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\bin\Debug\net8.0\libman.json
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\bin\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.staticwebassets.runtime.json
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\bin\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.staticwebassets.endpoints.json
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\bin\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.exe
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\bin\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.deps.json
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\bin\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.runtimeconfig.json
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\bin\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.dll
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\bin\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.pdb
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.AssemblyInfo.cs
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.RazorAssemblyInfo.cache
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.RazorAssemblyInfo.cs
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.sourcelink.json
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\scopedcss\bundle\Strike_BackEnd_Avan-aTech_ProjetoFinal.styles.css
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\scopedcss\projectbundle\Strike_BackEnd_Avan-aTech_ProjetoFinal.bundle.scp.css
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.dll
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\refint\Strike_BackEnd_Avan-aTech_ProjetoFinal.dll
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.pdb
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.genruntimeconfig.cache
+C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\ref\Strike_BackEnd_Avan-aTech_ProjetoFinal.dll
