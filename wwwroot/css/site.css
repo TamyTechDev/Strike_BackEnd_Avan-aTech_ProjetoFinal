@@ -21,3 +21,19 @@ body {
   margin-bottom: 60px;
 }
 
+
+.espacamento {
+  margin-bottom: 65px;
+}
+
+img {
+  max-width: 1200px;
+}
+
+.noticias {
+
+}
+
+.noticias img {
+  max-width: 280px;
+}

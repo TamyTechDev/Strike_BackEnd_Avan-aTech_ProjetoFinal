@@ -1,5 +1,13 @@
+a {
+  text-decoration: none;
+  color: #271F30;
+  font-size: 9pt;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 8px 12px;
+}
+
 .botao {
-    color: #141313 !important;
+    color: #271F30 !important;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
     font-size: 14px !important;
     font-weight: bold !important;
@@ -15,14 +23,14 @@
 
 /* Para o botão de Apostas na direita */
 .botaoDestaque {
-    color: #ffffff !important;
-    background-color: #007bff !important; /* Cor azul de destaque */
+    color: #D0FCB3!important;
+    background-color: #9BC59D!important; /* Cor azul de destaque */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
     font-size: 14px !important;
     font-weight: bold !important;
     text-decoration: none !important;
     padding: 8px 20px !important;
-    border-radius: 5px !important;
+    border-radius: 8px !important;
     border: none !important;
     display: inline-block !important;
 }

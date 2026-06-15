@@ -26,32 +26,38 @@
              <img src="./img/StrikeLogo.png" alt="Logo Monograma Strike"  width="75" class="ms-5">
             </div>
          @* Botao copa*@
-            <div class="col-2">
+            <div class="col-1">
                 <a href="" class="botao">COPA DO MUNDO</a>
             </div>
              @* BARRA DE PESQUISA*@
-               <div class="col-4"> 
-                <form class="d-flex me-4 flex-grow-1" style="max-width: 500px;" role="search">
+               <div class="col-5"> 
+                <form class="d-flex  flex-grow-1" role="search">
                     <input class="form-control me-2" type="search" placeholder="Search" aria-label="Pesquisar">
                     <button class="btn btn-outline-success" type="submit">Pesquisar </button>
                 </form>
                 </div>
         @*Botões*@
-                <div class="col-4 d-flex gap-5">
+                <div class="col-3 d-flex gap-3 justify-content-center">
                     <a href="#" class="botao">Notícias</a>
                     <a href="#" class="botao">Newsletter</a>
+                    <a href="#" class="botao">Olimpíadas</a>
                     <a href="#" class="botao">Cadastre</a>
                 </div>
 
+              
+                 <div class="col-1">
+                    <a href="#" class="botaoDestaque">ADOTE</a>
+                </div>
                 <div class="col-1">
                     <a href="#" class="botaoDestaque">Apostas</a>
+               
                 </div>
             </div>
 
         </div>
     </nav>
     </header>
-    <div class="container">
+    <div class="">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
