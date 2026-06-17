@@ -13,21 +13,23 @@
 <body>
     <header>
           @* CONVITE PRA NEWSLETTER *@
-    <div class="bg-success py-2 ">
-       <h6 class="container fw-bold text-center text-light ">
+    <div class="bg-success  d-flex justify-content-center">
+       <a class="container fw-bold text-center text-light " asp-page="Newsletter">
         CADASTRE NA NOSSA NEWSLETTER E SAIBA AS NOVIDADES DO MUNDO DO ESPORTE
-        </h6>
+        </a>
     </div>
         
         @* BARRA DO TOPO  LOGO*@
   <nav class="row align-items-center">
         
             <div class="col-1">
-             <img src="./img/StrikeLogo.png" alt="Logo Monograma Strike"  width="75" class="ms-5">
+            <a href="./">
+                <img src="./img/StrikeLogo.png" alt="Logo Monograma Strike"  width="75" class="ms-5">
+             </a>
             </div>
          @* Botao copa*@
             <div class="col-1">
-                <a href="" class="botao">COPA DO MUNDO</a>
+                <a href="./Copa" class="botao">COPA DO MUNDO</a>
             </div>
              @* BARRA DE PESQUISA*@
                <div class="col-5"> 
@@ -36,20 +38,22 @@
                     <button class="btn btn-outline-success" type="submit">Pesquisar </button>
                 </form>
                 </div>
+
+
         @*Botões*@
                 <div class="col-3 d-flex gap-3 justify-content-center">
-                    <a href="#" class="botao">Notícias</a>
-                    <a href="#" class="botao">Newsletter</a>
-                    <a href="#" class="botao">Olimpíadas</a>
-                    <a href="#" class="botao">Cadastre</a>
+                    <a href="./Noticias" class="botao">Notícias</a>
+                    <a href="./Newsletter" class="botao">Newsletter</a>
+                    <a href="./Copinha" class="botao">Copinha</a>
+                    <a href="./Cadastro" class="botao">Cadastre</a>
                 </div>
 
               
                  <div class="col-1">
-                    <a href="#" class="botaoDestaque">ADOTE</a>
+                    <a href="./Adote" class="botaoDestaque">ADOTE</a>
                 </div>
                 <div class="col-1">
-                    <a href="#" class="botaoDestaque">Apostas</a>
+                    <a href="./Aposta" class="botaoDestaque">Apostas</a>
                
                 </div>
             </div>
