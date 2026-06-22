@@ -17,6 +17,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\x3202\\Documents\\GitHub\\Strike_BackEnd_Avan-aTech_ProjetoFinal\\wwwroot\\img\\AdoteUmAtleta_Banner.png",
+      "PackagePath": "staticwebassets\\img\\AdoteUmAtleta_Banner.png"
+    },
+    {
+      "Id": "C:\\Users\\x3202\\Documents\\GitHub\\Strike_BackEnd_Avan-aTech_ProjetoFinal\\wwwroot\\img\\BarraPatrocinioEsporte.png",
+      "PackagePath": "staticwebassets\\img\\BarraPatrocinioEsporte.png"
+    },
+    {
+      "Id": "C:\\Users\\x3202\\Documents\\GitHub\\Strike_BackEnd_Avan-aTech_ProjetoFinal\\wwwroot\\img\\Espaço.png",
+      "PackagePath": "staticwebassets\\img\\Espaço.png"
+    },
+    {
+      "Id": "C:\\Users\\x3202\\Documents\\GitHub\\Strike_BackEnd_Avan-aTech_ProjetoFinal\\wwwroot\\img\\FotoHome.png",
+      "PackagePath": "staticwebassets\\img\\FotoHome.png"
+    },
+    {
+      "Id": "C:\\Users\\x3202\\Documents\\GitHub\\Strike_BackEnd_Avan-aTech_ProjetoFinal\\wwwroot\\img\\LOGO_STRIKE.png",
+      "PackagePath": "staticwebassets\\img\\LOGO_STRIKE.png"
+    },
+    {
       "Id": "C:\\Users\\x3202\\Documents\\GitHub\\Strike_BackEnd_Avan-aTech_ProjetoFinal\\wwwroot\\img\\StrikeLogo.png",
       "PackagePath": "staticwebassets\\img\\StrikeLogo.png"
     },

@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uS4Fz8/ak+8=",
+  "dgSpecHash": "E4bPzj4l1Ac=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\Documents\\tamy jeniffer\\_NET\\Strike_BackEnd_Avan-aTech_ProjetoFinal\\Strike_BackEnd_Avan-aTech_ProjetoFinal.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
-    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
-    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
-    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\x3202\\Documents\\GitHub\\Strike_BackEnd_Avan-aTech_ProjetoFinal\\Strike_BackEnd_Avan-aTech_ProjetoFinal.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

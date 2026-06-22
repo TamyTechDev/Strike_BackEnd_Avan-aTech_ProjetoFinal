@@ -1,7 +1,5 @@
 is_global = true
 build_property.TargetFramework = net8.0
-build_property.TargetFrameworkIdentifier = .NETCoreApp
-build_property.TargetFrameworkVersion = v8.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
@@ -11,69 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Strike_BackEnd_Avan_aTech_ProjetoFinal
 build_property.RootNamespace = Strike_BackEnd_Avan_aTech_ProjetoFinal
-build_property.ProjectDir = C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\
+build_property.ProjectDir = C:\Users\x3202\Documents\GitHub\Strike_BackEnd_Avan-aTech_ProjetoFinal\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal
+build_property.MSBuildProjectDirectory = C:\Users\x3202\Documents\GitHub\Strike_BackEnd_Avan-aTech_ProjetoFinal
 build_property._RazorSourceGeneratorDebug = 
-build_property.EffectiveAnalysisLevelStyle = 8.0
-build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Aluno/Documents/tamy jeniffer/_NET/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Adote.cshtml]
+[C:/Users/x3202/Documents/GitHub/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Adote.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRvdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Documents/tamy jeniffer/_NET/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Aposta.cshtml]
+[C:/Users/x3202/Documents/GitHub/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Aposta.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBvc3RhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Documents/tamy jeniffer/_NET/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Cadastro.cshtml]
+[C:/Users/x3202/Documents/GitHub/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Cadastro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Documents/tamy jeniffer/_NET/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Copa.cshtml]
+[C:/Users/x3202/Documents/GitHub/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Copa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29wYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Documents/tamy jeniffer/_NET/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Copinha.cshtml]
+[C:/Users/x3202/Documents/GitHub/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Copinha.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29waW5oYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Documents/tamy jeniffer/_NET/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Error.cshtml]
+[C:/Users/x3202/Documents/GitHub/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Documents/tamy jeniffer/_NET/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Index.cshtml]
+[C:/Users/x3202/Documents/GitHub/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Documents/tamy jeniffer/_NET/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Newsletter.cshtml]
+[C:/Users/x3202/Documents/GitHub/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Newsletter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c2xldHRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Documents/tamy jeniffer/_NET/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Noticias.cshtml]
+[C:/Users/x3202/Documents/GitHub/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Noticias.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90aWNpYXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Documents/tamy jeniffer/_NET/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Privacy.cshtml]
+[C:/Users/x3202/Documents/GitHub/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Documents/tamy jeniffer/_NET/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/x3202/Documents/GitHub/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Documents/tamy jeniffer/_NET/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/_ViewImports.cshtml]
+[C:/Users/x3202/Documents/GitHub/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Documents/tamy jeniffer/_NET/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/_ViewStart.cshtml]
+[C:/Users/x3202/Documents/GitHub/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Documents/tamy jeniffer/_NET/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Shared/_Layout.cshtml]
+[C:/Users/x3202/Documents/GitHub/Strike_BackEnd_Avan-aTech_ProjetoFinal/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ku0ic6j392

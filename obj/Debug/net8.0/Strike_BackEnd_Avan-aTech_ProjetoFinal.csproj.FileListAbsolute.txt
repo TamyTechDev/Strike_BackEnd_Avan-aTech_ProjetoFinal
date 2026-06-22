@@ -64,3 +64,4 @@ C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFin
 C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.pdb
 C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.genruntimeconfig.cache
 C:\Users\Aluno\Documents\tamy jeniffer\_NET\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\ref\Strike_BackEnd_Avan-aTech_ProjetoFinal.dll
+C:\Users\x3202\Documents\GitHub\Strike_BackEnd_Avan-aTech_ProjetoFinal\obj\Debug\net8.0\Strike_BackEnd_Avan-aTech_ProjetoFinal.sourcelink.json
