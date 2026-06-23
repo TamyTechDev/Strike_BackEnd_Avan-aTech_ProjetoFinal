@@ -1,5 +1,6 @@
 @page
-@model CadastroModel
+@model Strike_BackEnd_Avan_aTech_ProjetoFinal.Models.CadastroViewModel
+
 @{
     ViewData["Title"] = "Criar Conta";
 }
@@ -10,36 +11,38 @@
             <div class="card shadow-sm">
                 <div class="card-body p-4">
                     <h2 class="text-center mb-4">Criar Conta</h2>
-                    
+
                     <form method="post">
                         <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
 
                         <div class="mb-3">
-                            <label asp-for="Input.Nome" class="form-label">Nome Completo</label>
-                            <input asp-for="Input.Nome" class="form-control" placeholder="Ex: Maria Silva" />
-                            <span asp-validation-for="Input.Nome" class="text-danger small"></span>
+                            <label asp-for="Nome" class="form-label"></label>
+                            <input asp-for="Nome" class="form-control" placeholder="Ex: Maria Silva" />
+                            <span asp-validation-for="Nome" class="text-danger small"></span>
                         </div>
 
                         <div class="mb-3">
-                            <label asp-for="Input.Email" class="form-label">E-mail</label>
-                            <input asp-for="Input.Email" class="form-control" placeholder="nome@exemplo.com" />
-                            <span asp-validation-for="Input.Email" class="text-danger small"></span>
+                            <label asp-for="Email" class="form-label"></label>
+                            <input asp-for="Email" class="form-control" placeholder="nome@exemplo.com" />
+                            <span asp-validation-for="Email" class="text-danger small"></span>
                         </div>
 
                         <div class="mb-3">
-                            <label asp-for="Input.Senha" class="form-label">Senha</label>
-                            <input asp-for="Input.Senha" class="form-control" type="password" />
-                            <span asp-validation-for="Input.Senha" class="text-danger small"></span>
+                            <label asp-for="Senha" class="form-label"></label>
+                            <input asp-for="Senha" class="form-control" type="password" />
+                            <span asp-validation-for="Senha" class="text-danger small"></span>
                         </div>
 
                         <div class="mb-3">
-                            <label asp-for="Input.ConfirmarSenha" class="form-label">Confirmar Senha</label>
-                            <input asp-for="Input.ConfirmarSenha" class="form-control" type="password" />
-                            <span asp-validation-for="Input.ConfirmarSenha" class="text-danger small"></span>
+                            <label asp-for="ConfirmarSenha" class="form-label"></label>
+                            <input asp-for="ConfirmarSenha" class="form-control" type="password" />
+                            <span asp-validation-for="ConfirmarSenha" class="text-danger small"></span>
                         </div>
 
-                        <div class="d-grid gap-2 mt-4">
-                            <button type="submit" class="btn btn-primary btn-block">Cadastrar</button>
+                        <div class="d-grid mt-4">
+                            <button type="submit" class="btn btn-primary">
+                                Cadastrar
+                            </button>
                         </div>
                     </form>
                 </div>
