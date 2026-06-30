@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Strike_BackEnd_Avan-aTech_ProjetoFinal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a23c5b090e8c610d55d4f4ab234f9694fe322a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59ab6f71dd58765ab79f6ee62f7a83435aef7b41")]
 [assembly: System.Reflection.AssemblyProductAttribute("Strike_BackEnd_Avan-aTech_ProjetoFinal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Strike_BackEnd_Avan-aTech_ProjetoFinal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
